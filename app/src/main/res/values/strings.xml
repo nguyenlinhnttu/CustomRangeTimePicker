@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomRangeTimePicker</string>
+    <string name="msg_select_time_not_correct">The starting time cannot be less than the end time</string>
+    <string name="label_action_ok">OK</string>
+</resources>
